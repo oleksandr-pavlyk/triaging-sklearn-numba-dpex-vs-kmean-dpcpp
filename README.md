@@ -1,4 +1,4 @@
-# Comparison of fused lloy run using scripts
+# Comparison of fused_lloyd run using scripts
 
 Script to run kmeans_dpcpp kernel in my fork:
 
